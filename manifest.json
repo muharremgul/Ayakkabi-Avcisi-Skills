@@ -1,0 +1,22 @@
+{
+  "name": "ayakkabi-avcisi-skills",
+  "display_name": "Ayakkabı Avcısı Skills",
+  "version": "1.0.0",
+  "language": "tr",
+  "skills": [
+    "shoe-analyzer",
+    "product-matcher",
+    "price-hunter",
+    "deal-evaluator",
+    "shoe-recommender",
+    "review-summarizer",
+    "weekly-market-report"
+  ],
+  "supported_targets": [
+    "codex",
+    "claude-code",
+    "gemini-cli",
+    "github-copilot",
+    "agent-skills-compatible-tools"
+  ]
+}
